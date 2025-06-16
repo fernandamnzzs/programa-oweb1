@@ -1,1 +1,1 @@
-atividade de funções, array e alert.
+Atividade de funções, array e alert.
